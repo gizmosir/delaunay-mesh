@@ -1,0 +1,6 @@
+/home/tp/Projects/delaunay-mesh/build/CMakeFiles/rebuild_cache.dir
+/home/tp/Projects/delaunay-mesh/build/CMakeFiles/edit_cache.dir
+/home/tp/Projects/delaunay-mesh/build/CMakeFiles/algor_1_test.dir
+/home/tp/Projects/delaunay-mesh/build/CMakeFiles/demo.dir
+/home/tp/Projects/delaunay-mesh/build/CMakeFiles/algor_2_test.dir
+/home/tp/Projects/delaunay-mesh/build/CMakeFiles/compare_test.dir
