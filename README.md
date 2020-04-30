@@ -49,6 +49,6 @@ ${workplace}/delaunay-mesh/build/demo
 ${workplace}/delaunay-mesh/build/demo 40
 
 # 指定用于三角化的图片目录地址
-${workplace}/delaunay-mesh/build/demo ../tese.png
+${workplace}/delaunay-mesh/build/demo ../test.png
 
 ```

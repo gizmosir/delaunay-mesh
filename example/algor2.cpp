@@ -6,8 +6,6 @@
 #include <random>
 #include <chrono>
 
-#include <SFML/Graphics.hpp>
-
 #include "vector2.h"
 #include "triangle.h"
 #include "delaunay.h"
